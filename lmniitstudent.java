@@ -1,0 +1,9 @@
+student name:vishal
+roll no:12
+total marks:12
+student name:harshal
+roll no:25
+total marks:25
+student name:aatysuh
+roll no:40
+total marks:40
